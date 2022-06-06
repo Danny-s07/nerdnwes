@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+.logotipo
+{
+    width:70px ;
+    height:40px;
+    margin-left: 135px;
+    border-radius: 9px;
+   
+}
+
+img
+{
+	max-width: 100%;
+	height: auto;
+}
+
+a.menulateral:link, a.menulateral:visited 
+{
+    text-decoration: none;
+     /* list-style: none;  */
+    color: black;
+
+}
+
+li
+{
+    list-style: none;
+}
+
+a.menulateral:hover, a.menulateral:active
+{
+   font-weight: bold;
+}
+ 
+
+
+.corespecifica /*classe de cor do menu apenas da paginas do front end*/
+{
+    background-color: rgba(0, 0, 0, 0.678);
+}
+
+
+.tamimg
+{
+    width: 150px;
+    height: 50px;
+   
+}
+
